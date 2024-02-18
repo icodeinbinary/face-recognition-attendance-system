@@ -24,7 +24,7 @@ This is a Flask-based web application for automating attendance using face recog
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/icodeinbinary/face-recognition-attendance-system.git
+    git clone https://github.com/icodeinbinary/face-recognition-attendance-system
     ```
 
 2. Navigate to the project directory:
